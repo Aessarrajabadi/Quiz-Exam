@@ -106,21 +106,13 @@ Password: admin123
 ---
 
 ## 🌐 Live Demo
-
-👉 Coming Soon / Add your deployed link here
+ https://quiz-exam.infinityfreeapp.com/
 
 ---
 
 ## 📜 License
 
 This project is open-source and free to use for educational purposes.
-
----
-
-## 🙌 Author
-
-**Aessarraja Badi**
-📺 YouTube Channel: Ilm ka Chaman
 
 ---
 
